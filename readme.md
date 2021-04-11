@@ -4,6 +4,8 @@
 
 A simple portfolio site for a web developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
 
+It can be viewed at: http://www.victoriahfarr.com/
+
 ## Prerequisites
 
 - A simple, up-to-date browser than can read and display HTML5 & CSS is all that's needed. 🤓
