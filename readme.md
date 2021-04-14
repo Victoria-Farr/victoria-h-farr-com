@@ -1,6 +1,6 @@
 ![Victoria Farr Screenshot Banner](img/victoria-readme-header.png)
 
-# Victoria Farr portfolio site
+# Victoria Farr 'portfolio site'
 
 A simple portfolio site concept for a web developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
 
