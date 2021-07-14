@@ -4,7 +4,7 @@
 
 A simple portfolio site concept for a web developer with information for potential clients and employers about her skillset, portfolio of work, and contact information.
 
-It can be viewed live at: http://www.victoriahfarr.com/
+It can be viewed live at: https://victoria-farr.github.io/victoria-h-farr-com/
 
 ## Prerequisites
 
